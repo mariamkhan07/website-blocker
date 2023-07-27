@@ -9,3 +9,5 @@ The Website Blocker Script is a Python program that helps improve productivity b
 - Automatically unblocks the websites outside the specified time frame.
 - Cross-platform compatibility for macOS and Windows
 
+I made a tutorial demonstrating how the website blocker works on my computer: https://youtu.be/dfQg14n2HSg'
+It will work differently depending on the operating system
