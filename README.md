@@ -1,6 +1,6 @@
 
 
-## Features
+## Website Blocker Features:
 
 - Blocks user-specified websites during designated work hours.
 - Allows customization of the blocked website list according to individual preferences.
