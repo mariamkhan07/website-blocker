@@ -1,8 +1,6 @@
-# Website Blocker Script
 
-The Website Blocker Script is a Python program that helps improve productivity by blocking access to specified websites during work hours. The script modifies the system's hosts file to redirect unwanted websites to the localhost IP address, effectively preventing their access while the script is active.
 
-## Key Features
+## Features
 
 - Blocks user-specified websites during designated work hours.
 - Allows customization of the blocked website list according to individual preferences.
